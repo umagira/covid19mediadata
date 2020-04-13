@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# OS-generated files
+.DS_Store
+.DS_Store?
+
+# PyCharm-generated files
+.idea/
